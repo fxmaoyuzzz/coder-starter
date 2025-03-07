@@ -8,7 +8,8 @@
 
 ##### Java集合
 
-[ArrayList](https://mp.weixin.qq.com/s/g60-GKB5C7XCLNyq5rvurQ)
+[ArrayList](https://mp.weixin.qq.com/s/NHJF-C2WpxPPWq0gkneinw)
+
 
 ##### JVM
 
