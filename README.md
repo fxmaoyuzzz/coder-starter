@@ -5,7 +5,6 @@
 #### [学习路线知识图](https://www.processon.com/view/link/60e97db9e0b34d7b4e77db23)
 
 
-
 ##### Java集合
 
 [ArrayList](https://mp.weixin.qq.com/s/NHJF-C2WpxPPWq0gkneinw)
@@ -14,6 +13,8 @@
 ##### JVM
 
 [浅谈JVM垃圾回收机制](https://mp.weixin.qq.com/s/yUXr147U7NoQd6-crkVcDg)
+
+[Java9-Java17新特性汇总](https://mp.weixin.qq.com/s/m-0KphNk2t6VzCbnc39-Lg)
 
 ##### Redis
 
