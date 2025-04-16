@@ -22,6 +22,8 @@
 
 [什么是缓存穿透、缓存击穿、缓存雪崩？解决方案？](https://mp.weixin.qq.com/s/ItbbHqsFPCf4EgYfHiw8KA)
 
+[Redis持久化机制和实现原理](https://mp.weixin.qq.com/s/0h-eTqxIjXRR7iHylddGyw)
+
 ##### SpringBoot
 
 [Spring Boot通用mapper整合的方法及步骤](https://mp.weixin.qq.com/s/rx-oGXnaguc8OE49yJQYeg)
