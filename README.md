@@ -24,6 +24,8 @@
 
 [Redis持久化机制和实现原理](https://mp.weixin.qq.com/s/0h-eTqxIjXRR7iHylddGyw)
 
+[Redis如何解决BigKey问题](https://mp.weixin.qq.com/s/fy9hjb11JTDeYrI85tyncQ)
+
 ##### SpringBoot
 
 [Spring Boot通用mapper整合的方法及步骤](https://mp.weixin.qq.com/s/rx-oGXnaguc8OE49yJQYeg)
