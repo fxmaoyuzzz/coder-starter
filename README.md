@@ -20,6 +20,8 @@
 
 [Redis数据结构--SDS](https://mp.weixin.qq.com/s/g60-GKB5C7XCLNyq5rvurQ)
 
+[Redis数据结构--intset](https://mp.weixin.qq.com/s/YhH1hpChWLd4ykJa8m_uYg)
+
 [什么是缓存穿透、缓存击穿、缓存雪崩？解决方案？](https://mp.weixin.qq.com/s/ItbbHqsFPCf4EgYfHiw8KA)
 
 [Redis持久化机制和实现原理](https://mp.weixin.qq.com/s/0h-eTqxIjXRR7iHylddGyw)
